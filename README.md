@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Enthusiast Front-End Developer, Open Source Contributor, and Professional Rustacean. I also like C and I'm exploring Low Level Tech 👾👽 </samp></h4>
 
 <div align="center">
-  <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/92476321/213546693-be62b45c-6648-4141-bfef-9d76054c1273.gif)" />
+  <img src="https://user-images.githubusercontent.com/92476321/213546693-be62b45c-6648-4141-bfef-9d76054c1273.gif" />
 </div>
 
 
