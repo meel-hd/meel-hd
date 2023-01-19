@@ -1,8 +1,8 @@
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Enthusiast Front-End Developer, Open Source Contributor, and Professional Rustacean. I also like C and I'm exploring Low Level Tech 👾👽 </samp></h4>
 
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif">
-</p>
+<div align="center">
+  <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/92476321/213546693-be62b45c-6648-4141-bfef-9d76054c1273.gif)" />
+</div>
 
 
 <p align="center">
@@ -19,7 +19,6 @@ Check out my repos ⬇️
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
  -->
 <!--
-**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
