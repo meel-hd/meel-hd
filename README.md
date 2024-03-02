@@ -7,6 +7,6 @@
 </p>
 
 <p align="center"><samp>
-Check out my repos ⬇️  
+Check out my projects below⬇️  
   </samp>
 </p>
